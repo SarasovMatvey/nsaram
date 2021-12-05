@@ -1,4 +1,4 @@
-baseURL = "http://localhost/nsaram/"
+baseURL = "https://nsaram.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "dimension"
