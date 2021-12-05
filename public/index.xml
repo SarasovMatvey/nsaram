@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N.SARA.M. on My New Hugo Site</title>
+    <link>http://localhost/nsaram/</link>
+    <description>Recent content in N.SARA.M. on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://localhost/nsaram/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Контакты</title>
+      <link>http://localhost/nsaram/contacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/nsaram/contacts/</guid>
+      <description> Номер: +996 550 237 558 Инстаграм: https://www.instagram.com/n.sara.m.workshop  </description>
+    </item>
+    
+    <item>
+      <title>Наши работы</title>
+      <link>http://localhost/nsaram/examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/nsaram/examples/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>О нас</title>
+      <link>http://localhost/nsaram/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/nsaram/about/</guid>
+      <description>Мы занимаемся изготовлением элитных кожанных изделий ручной работы. Цены у нас не низкие, впрочем как и их статусность ;)
+Имеется ассортимент товаров, который периодически пополняется, но вы также можете заказать индивидуальное неповторимое изделие лично для вас. В любом случае, преобретя наш товар - вы не пожалеете. Наши изделия отличаются элигантностью и изысканностью, а в качестве материалов используется в том числе и экзотическая кожа.</description>
+    </item>
+    
+  </channel>
+</rss>
